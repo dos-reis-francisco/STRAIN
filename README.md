@@ -12,3 +12,4 @@ Image and Vision Computing 1, nᵒ 3 (août 1983): 133‑39. https://doi.org/10.
 	deplacement deplMax, double errorPixMax, int iterMax);
 * wrote using Visual Studio 2022
 * use Bitmap library by Arash Partow - 2002 
+* two examples application are furnished in mainStrain.cpp
